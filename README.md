@@ -1,0 +1,2 @@
+# magazyn
+Jestem student
